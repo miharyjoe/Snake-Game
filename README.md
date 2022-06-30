@@ -1,4 +1,5 @@
-#Snake Game🐍🐍
+# Snake Game🐍🐍
+
 This is a simple snake game using HTML and JavaScript
 
 You can clone this and double click index.html .
